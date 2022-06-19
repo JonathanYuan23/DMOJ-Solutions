@@ -4,4 +4,4 @@ This is a repository of my current [DMOJ](https://dmoj.ca/user/jy900) solutions,
 
 ## Navigation
 
-When looking for a solution to a specific problem, find the file in Solutions corresponding to its problem code.
+When looking for the solution to a specific problem, find the file in [Solutions](https://github.com/JonathanYuan900/DMOJ-Solutions/tree/main/Solutions) corresponding to its problem code (problem codes are found after the last '/' in the URL, e.g. https://dmoj.ca/problem/noi09p3 contains the problem code _noi09p3_).
